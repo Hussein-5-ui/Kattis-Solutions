@@ -1,2 +1,2 @@
 # Kattis-Solutions
-My Kattis Solutions
+Table of Contents
